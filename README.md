@@ -56,6 +56,9 @@ Written by Jia Liang Chen: https://github.com/EllisJLC
 
 The last section of a high-quality README file is the license. This lets other developers know what they can and cannot do with your project. If you need help choosing a license, refer to [https://choosealicense.com/](https://choosealicense.com/).
 
+
+# The following are optional additions
+
 ## Badges
 
 ![badmath](https://img.shields.io/github/languages/top/nielsenjared/badmath)
