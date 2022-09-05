@@ -38,7 +38,7 @@ git commit -m "-commit message-"
 
 3. Sync:
 git pull origin main
-
+ 
 4. Upload:
 git push origin -branch-
 
@@ -55,3 +55,19 @@ Written by Jia Liang Chen: https://github.com/EllisJLC
 ## License
 
 The last section of a high-quality README file is the license. This lets other developers know what they can and cannot do with your project. If you need help choosing a license, refer to [https://choosealicense.com/](https://choosealicense.com/).
+
+## Badges
+
+![badmath](https://img.shields.io/github/languages/top/nielsenjared/badmath)
+
+## Features
+
+Mainly just a list of notes.
+
+## How to Contribute
+
+Contribute @ -link- or contact EllisJLC
+
+## Tests
+
+Run and confirmed all working fine.
